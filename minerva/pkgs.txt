@@ -1,0 +1,1 @@
+streamlit langchain langchain-openai pypdf2 python-dotenv faiss-cpu openai InstructorEmbedding sentence-transformers==2.2.2 tiktoken
